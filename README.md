@@ -52,7 +52,7 @@ Lastly, the user is prompted with the choice of restarting the program or not.
 
 # Author:
 
- * [Ahaotu Macmatthew]
+ * [Macchime]
   
 # Acknowledgements: 
 
