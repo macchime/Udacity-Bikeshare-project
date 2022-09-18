@@ -56,7 +56,7 @@ Lastly, the user is prompted with the choice of restarting the program or not.
   
 # Acknowledgements: 
 
- * [Aritra96](https://github.com/aritra96) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
+ * [Macmatthew](https://github.com/macchime) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
 
 * [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
 
